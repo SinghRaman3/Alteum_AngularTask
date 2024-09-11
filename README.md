@@ -12,11 +12,9 @@ This project is an Angular application that fetches and displays anime data from
 ## Features
 
 - Fetch anime data dynamically from the [Anime API](https://rapidapi.com/brian.rofiq/api/anime-db/playground/apiendpoint_d5c3dae2-6017-48df-a7cd-be65865d15bc).
-- Allow users to search for specific anime by title.
+- Allow users to search for specific anime by ranking.
 - Paginate through anime results.
-- Sort anime by name or ranking.
-- Display genres for each anime as a comma-separated list.
-- Display useful metadata such as rating and type of anime.
+- Display useful metadata such as ranking, type, number of episode and genre of anime.
 
 ## Frameworks & Libraries Used
 
